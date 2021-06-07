@@ -25,16 +25,17 @@ Website visuals :
 
 
 
-Workflow :
 
 
 
 
 
 
-![RR2](https://user-images.githubusercontent.com/77088327/121021511-19c5b380-c7bf-11eb-9f3f-c15286cde6f6.png)
 
 
 
 
+Model : 
+
+![RR4](https://user-images.githubusercontent.com/77088327/121021711-4974bb80-c7bf-11eb-97b6-a2303477b9fd.png)
 
