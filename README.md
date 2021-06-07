@@ -29,7 +29,7 @@ Website visuals :
 
 
 
-
+See The folder Covid - 19 above to see some screenshots related to model and accuracy metrics.
 
 
 
